@@ -31,10 +31,10 @@
 
 ## `Important Links:`
 
-- Data Science Certificate: [Data-Science-Certification](https://drive.google.com/file/d/1NCjNytTQYSxv1D5NrUTTRIDDnRsqKBFv/view?usp=drive_link)
-- Ai Variant Internship : [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
+- Data Science Certificate : [Data-Science-Certification](https://drive.google.com/file/d/1NCjNytTQYSxv1D5NrUTTRIDDnRsqKBFv/view?usp=drive_link)
 - Innomatics Internship : [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing)
-- Resume: [Resume-Shanu-Halli](https://drive.google.com/file/d/1G99UuorrDlEMugA0zKbV818qFyLT8Umc/view?usp=sharing)
+- Ai Variant Internship : [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
+- My Resume : [Resume-Shanu-Halli](https://drive.google.com/file/d/1G99UuorrDlEMugA0zKbV818qFyLT8Umc/view?usp=sharing)
 
 ## `My Github Status:`
 <details>
