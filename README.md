@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shanuhalli&label=Profile%20views&color=0e75b6&style=flat" alt="shanuhalli" height="25" width="150" /></p>
 
-🔹👨‍💻 4 months of hands-on experience as a Data Science Intern at **[Innomatics Research Labs](http://www.innomatics.in)**, I've dived into Python Problem Solving, Data Analysis, MLOps, Deep Learning Algorithms, and Flask Web Application Framework.
+🔹👨‍💻 4 months experience as a Data Science Intern at *[Innomatics Research Labs](http://www.innomatics.in)* I've dived into Python Problem Solving, Data Analysis, MLOps, Deep Learning Algorithms, and Flask Framework.
 
-🔹🧑‍🎓 6 months internship at **[Ai Variant](https://aivariant.com)** refined my expertise in Python, Web Scraping, Text Mining, Data Preprocessing, EDA, Machine Learning, and Natural Language Processing, along with model deployment.
+🔹🧑‍🎓 6 months internship at *[Ai Variant](https://aivariant.com)* refined my expertise in Python, Web Scraping, Text Mining, Data Preprocessing, EDA, Machine Learning, and Natural Language Processing, along with model deployment.
 
 🔹👯 My diverse skill set spans databases, frameworks, programming languages, machine learning, and data analysis. I'm dedicated to helping people and businesses harness the power of data to drive innovation and decision-making.
 
@@ -27,10 +27,10 @@
 
 ## `Important Links:`
 
-- Data Science Certificate : [Data-Science-Certification](https://drive.google.com/file/d/1NCjNytTQYSxv1D5NrUTTRIDDnRsqKBFv/view?usp=drive_link)
-- Innomatics Internship : [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing)
-- Ai Variant Internship : [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
-- My Resume : [Resume-Shanu-Halli](https://drive.google.com/file/d/1SIbmol7WmcXFldskNEI9FL8lnapO6BBH/view?usp=sharing)
+- **Data Science Certificate :** [Data-Science-Certification](https://drive.google.com/file/d/1NCjNytTQYSxv1D5NrUTTRIDDnRsqKBFv/view?usp=drive_link)
+- **Innomatics Internship :** [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing)
+- **Ai Variant Internship :** [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
+- **My Resume :** [Resume-Shanu-Halli](https://drive.google.com/file/d/1SIbmol7WmcXFldskNEI9FL8lnapO6BBH/view?usp=sharing)
 
 ## `My Github Status:`
 <details>
