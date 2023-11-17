@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Shanu Halli</h1>
-<h3 align="center">A Passionate Data Science Learner</h3>
-<img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
+<h2 align="center">A Passionate Data Science Learner</h2>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shanuhalli&label=Profile%20views&color=0e75b6&style=flat" alt="shanuhalli" height="25" width="150" /></p>
+<img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
-🔹👨‍💻 4 months experience as a Data Science Intern at *[Innomatics Research Labs](http://www.innomatics.in)* I've dived into Python Problem Solving, Data Analysis, MLOps, Deep Learning Algorithms, and Flask Framework.
+🔹👨‍💻 4 months experience as a Data Science Intern at *[Innomatics Research Labs](http://www.innomatics.in)* I've dived into **Python Problem Solving, Data Analysis, MLOps, Deep Learning Algorithms, and Flask Framework.**
 
-🔹🧑‍🎓 6 months internship at *[Ai Variant](https://aivariant.com)* refined my expertise in Python, Web Scraping, Text Mining, Data Preprocessing, EDA, Machine Learning, and Natural Language Processing, along with model deployment.
+🔹🧑‍🎓 6 months internship at *[Ai Variant](https://aivariant.com)* refined my expertise in **Python, Web Scraping, Text Mining, Data Preprocessing, EDA, Machine Learning, and Natural Language Processing, along with model deployment.**
 
-🔹👯 My diverse skill set spans databases, frameworks, programming languages, machine learning, and data analysis. I'm dedicated to helping people and businesses harness the power of data to drive innovation and decision-making.
+🔹👯 My diverse skill set spans **databases, frameworks, programming languages, machine learning, and data analysis.** I'm dedicated to helping people and businesses harness the power of data to drive innovation and decision-making.
 
 ## `Connect with me`
 <div>
