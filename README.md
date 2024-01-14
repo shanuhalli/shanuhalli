@@ -1,7 +1,8 @@
-<h1 align="center">Hello, I'm Shanu Halli</h1>
-<h2 align="center">A Passionate Data Science Learner</h2>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=shanuhalli&label=Profile%20views&color=0e75b6&style=flat" alt="shanuhalli" height="25" width="150" /></p>
-<img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
+<h1 align="center"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif" alt="datasciencegif">
+<h2 align="center">A Passionate Data Science Learner
+<p align="left"><img src="https://komarev.com/ghpvc/?username=shanuhalli&label=Profile%20views&color=0e75b6&style=flat" alt="shanuhalli" height="25" width="150" /></p> </h2>
+
+🔹💼 I'm a Data Analyst at *[Sysma Tech](https://www.sysmatech.com)*, where my passion for data and cutting-edge technology comes to life. I specialize in leveraging **Advanced Excel** and **Power BI** tools, along with a keen focus on Preventive Maintenance to ensure data accuracy and reliability.
 
 🔹👨‍💻 4 months experience as a Data Science Intern at *[Innomatics Research Labs](http://www.innomatics.in)* I've dived into **Python Problem Solving, Data Analysis, MLOps, Deep Learning Algorithms, and Flask Framework.**
 
@@ -21,16 +22,16 @@
 
 ## `Projects:`
 
-### [Resume Classification](https://github.com/shanuhalli/Project-Resume-Classification)
-### [Real Estate Price Prediction](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction)
-### [Innomatics Internship Project](https://github.com/shanuhalli/Project-Innomatics-Internship)
+- ### [Resume Classification](https://github.com/shanuhalli/Project-Resume-Classification)
+- ### [Real Estate Price Prediction](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction)
+- ### [Innomatics Internship Project](https://github.com/shanuhalli/Project-Innomatics-Internship)
 
 ## `Important Links:`
 
 - **Data Science Certificate :** [Data-Science-Certification](https://drive.google.com/file/d/1NCjNytTQYSxv1D5NrUTTRIDDnRsqKBFv/view?usp=drive_link)
 - **Innomatics Internship :** [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing)
 - **Ai Variant Internship :** [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
-- **My Resume :** [Resume-Shanu-Halli](https://drive.google.com/file/d/1SIbmol7WmcXFldskNEI9FL8lnapO6BBH/view?usp=sharing)
+- **My Resume :** [Resume-Shanu-Halli](https://drive.google.com/file/d/14DRlT-yRiLyI0h6HSP6-9uvqzDW5e-uS/view?usp=drive_link)
 
 ## `My Github Status:`
 <details>
