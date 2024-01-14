@@ -1,4 +1,3 @@
-<h1 align="center"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif" alt="datasciencegif">
 <h2 align="center">A Passionate Data Science Learner
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shanuhalli&label=Profile%20views&color=0e75b6&style=flat" alt="shanuhalli" height="25" width="150" /></p> </h2>
 
@@ -19,6 +18,8 @@
 <a href="https://api.whatsapp.com/send/?phone=%2B919860934650&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>
 </p>
 </div>
+
+<h1 align="center"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif" alt="datasciencegif">
 
 ## `Projects:`
 
