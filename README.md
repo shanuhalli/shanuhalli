@@ -2,13 +2,13 @@
 <h2 align="center">A Passionate Data Science Learner
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shanuhalli&label=Profile%20views&color=0e75b6&style=flat" alt="shanuhalli" height="25" width="150" /></p> </h2>
 
-🔹💼 I'm a Data Analyst at *[Sysma Tech](https://www.sysmatech.com)*, where my passion for data and cutting-edge technology comes to life. I specialize in leveraging **Advanced Excel** and **Power BI** tools, along with a keen focus on Preventive Maintenance to ensure data accuracy and reliability.
+🔹💼 I'm a Data Analyst at *[Sysma Tech](https://www.sysmatech.com)* where my passion for data and cutting-edge technology comes to life. I specialize in leveraging **Advanced Excel** and **Power BI** tools, along with a keen focus on Preventive Maintenance to ensure data accuracy and reliability.
 
 🔹👨‍💻 4 months experience as a Data Science Intern at *[Innomatics Research Labs](http://www.innomatics.in)* I've dived into **Python Problem Solving, Data Analysis, MLOps, Deep Learning Algorithms, and Flask Framework.**
 
 🔹🧑‍🎓 6 months internship at *[Ai Variant](https://aivariant.com)* refined my expertise in **Python, Web Scraping, Text Mining, Data Preprocessing, EDA, Machine Learning, and Natural Language Processing, along with model deployment.**
 
-🔹👯 My diverse skill set spans **databases, frameworks, programming languages, machine learning, and data analysis.** I'm dedicated to helping people and businesses harness the power of data to drive innovation and decision-making.
+🔹👯 My diverse skill set spans **databases, frameworks, programming languages, data analysis, machine learning, and deep learning.** I'm dedicated to helping people and businesses harness the power of data to drive innovation and decision-making.
 
 ## `Connect with me`
 <div>
@@ -22,16 +22,17 @@
 
 ## `Projects:`
 
-- ### [Resume Classification](https://github.com/shanuhalli/Project-Resume-Classification)
-- ### [Real Estate Price Prediction](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction)
-- ### [Innomatics Internship Project](https://github.com/shanuhalli/Project-Innomatics-Internship)
+- **Project 1 :** [Real Estate Price Prediction](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction)
+- **Project 2 :** [Resume Classification](https://github.com/shanuhalli/Project-Resume-Classification)
+- **Project 3 :** [Open Pub Application](https://github.com/shanuhalli/Project-Innomatics-Internship/tree/main/Fianl_Project%20Movie%20Recommender%20System)
+- **Project 4 :** [Movie Recommendation System]()
 
 ## `Important Links:`
 
 - **Data Science Certificate :** [Data-Science-Certification](https://drive.google.com/file/d/1NCjNytTQYSxv1D5NrUTTRIDDnRsqKBFv/view?usp=drive_link)
 - **Innomatics Internship :** [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing)
 - **Ai Variant Internship :** [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
-- **My Resume :** [Resume-Shanu-Halli](https://drive.google.com/file/d/14DRlT-yRiLyI0h6HSP6-9uvqzDW5e-uS/view?usp=drive_link)
+- **My Resume :** [Data-Scientist-Shanu-Halli](https://drive.google.com/file/d/14DRlT-yRiLyI0h6HSP6-9uvqzDW5e-uS/view?usp=drive_link)
 
 ## `My Github Status:`
 <details>
@@ -39,6 +40,5 @@
   <br/>
 
 <p align="center"><a href="https://github.com/shanuhalli"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanuhalli&langs_count=10&title_color=f97316&text_color=000000&icon_color=6366f1&bg_color=ffffff&locale=en&custom_title=Most%20Used%20Languages" alt="Most Used Languages" /></a></p>
-
 <p align="center"><a href="http://www.github.com/shanuhalli"><img src="https://github-readme-stats.vercel.app/api?username=shanuhalli&show_icons=true&locale=en" alt="shanuhalli's GitHub Stats" /></a>
 <a href="http://www.github.com/shanuhalli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shanuhalli&show_icons=true&locale=en" /></a></p>
