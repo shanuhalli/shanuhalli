@@ -25,15 +25,15 @@
 
 - **Project 1 :** [Real Estate Price Prediction](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction)
 - **Project 2 :** [Resume Classification](https://github.com/shanuhalli/Project-Resume-Classification)
-- **Project 3 :** [Open Pub Application](https://github.com/shanuhalli/Project-Innomatics-Internship/tree/main/Fianl_Project%20Movie%20Recommender%20System)
-- **Project 4 :** [Movie Recommendation System]()
+- **Project 3 :** [Open Pub Application](https://github.com/shanuhalli/Project-Innomatics-Internship)
+- **Project 4 :** [Movie Recommendation System](https://github.com/shanuhalli/Project-Innomatics-Internship/tree/main/Fianl_Project%20Movie%20Recommender%20System)
 
 ## `Important Links:`
 
 - **Data Science Certificate :** [Data-Science-Certification](https://drive.google.com/file/d/1NCjNytTQYSxv1D5NrUTTRIDDnRsqKBFv/view?usp=drive_link)
 - **Innomatics Internship :** [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing)
 - **Ai Variant Internship :** [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing)
-- **My Resume :** [Data-Scientist-Shanu-Halli](https://drive.google.com/file/d/14DRlT-yRiLyI0h6HSP6-9uvqzDW5e-uS/view?usp=drive_link)
+- **My Resume :** [Jr.Data-Scientist-Shanu-Halli](https://drive.google.com/file/d/1O8KUU7gtxnD_JJ0XihAH0lK367wgPPVS/view?usp=sharing)
 
 ## `My Github Status:`
 <details>
