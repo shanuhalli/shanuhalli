@@ -8,7 +8,7 @@
   </p>
 </div>
 
-🔹💼 I'm a Data Analyst at *[Sysma Tech](https://www.sysmatech.com)* where my passion for data and cutting-edge technology comes to life. I specialize in leveraging **Advanced Excel, MySQL** and **Power BI** tools, along with a keen focus on Preventive Maintenance to ensure data accuracy and reliability.
+🔹💼 I'm a Business Analyst at *[HAEGL Technologies Pvt Ltd](https://haegl.in/)* where my passion for data and cutting-edge technology comes to life. I specialize in leveraging **Advanced Excel, MySQL** and **Power BI** tools, along with a keen focus on Preventive Maintenance to ensure data accuracy and reliability.
 
 🔹👨‍💻 4 months experience as a Data Science Intern at *[Innomatics Research Labs](http://www.innomatics.in)* I've dived into **Python Problem Solving, Data Analysis, MLOps, Deep Learning Algorithms, and Flask Framework.**
 
