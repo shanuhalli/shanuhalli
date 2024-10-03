@@ -18,7 +18,7 @@
 
 | Sr. No | Date     | Projects                                    |    | Important Links                             |
 |-------|-----------|---------------------------------------------|----|---------------------------------------------|
-| 1     | Jun 2023  | **Project D :** [Movie Recommendation System](https://github.com/shanuhalli/Project-Innomatics-Internship/tree/main/Fianl_Project%20Movie%20Recommender%20System) |  | **My Resume :** [Data-Analyst-Scientist-Shanu-Halli](https://drive.google.com/file/d/1smVR1u0OIrdqo287Q7Mgesamfc4HshBM/view?usp=sharing) |
+| 1     | Jun 2023  | **Project D :** [Movie Recommendation System](https://github.com/shanuhalli/Project-Innomatics-Internship/tree/main/Fianl_Project%20Movie%20Recommender%20System) |  | **Shanu Halli Resume :** [Data-Business-Analyst](https://drive.google.com/file/d/1Mt5A36vL2AT-ZrG4MQMaJJdLJlhi9pxO/view?usp=sharing) |
 | 2     | Apr 2023  | **Project C :** [Open Pub Application](https://github.com/shanuhalli/Project-Innomatics-Internship)  |  | **Ai Variant Internship :** [Internship-Certificate](https://drive.google.com/file/d/1Vci5-s4mh8cC47ksPQyu4zUbfC1gymyc/view?usp=sharing) |
 | 3     | Feb 2023  | **Project B :** [Resume Classification](https://github.com/shanuhalli/Project-Resume-Classification) |  | **Innomatics Internship :** [Letter-of-Recommendation](https://drive.google.com/file/d/1ChU4aSoM737Eh9Cmp9kMvEaHArwv0wPs/view?usp=sharing) |
 | 4     | Dec 2022  | **Project A :** [Real Estate Price Prediction](https://github.com/shanuhalli/Project-Real-Estate-Price-Prediction) |  | **Data Science Certificate :** [Data-Science-Certification](https://drive.google.com/file/d/1NCjNytTQYSxv1D5NrUTTRIDDnRsqKBFv/view?usp=sharing) |
